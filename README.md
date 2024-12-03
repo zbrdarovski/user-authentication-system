@@ -39,8 +39,8 @@ A simple PHP-based system for user registration, login, and logout using MySQL f
    - Clone the repository or download it as a ZIP file and extract it.
 
    ```bash
-   git clone https://github.com/yourusername/php-user-system.git
-   cd php-user-system
+   git clone https://github.com/zbrdarovski/user-authentication-system.git
+   cd user-authentication-system
    ```
 
 2. **Set Up the Database**
@@ -103,10 +103,10 @@ A simple PHP-based system for user registration, login, and logout using MySQL f
 ![Registration Error](images/registration_error_fill.png)
 
 ### Registration Error - Username Taken
-! [Username Taken](images/registration_error_username.png)
+![Username Taken](images/registration_error_username.png)
 
 ### Registration Error - Passwords Do Not Match
-! [Registration Error - Passwords Do Not Match](images/registration_error_password.png)
+![Registration Error - Passwords Do Not Match](images/registration_error_password.png)
 
 ### Login Page
 ![Login](images/login.png)
